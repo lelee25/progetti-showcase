@@ -1,6 +1,6 @@
-# Ahoo
+# Assistente AI per la domotica
 
-Progetto personale · Prodotti
+Progetto software · Prodotti
 
 Assistente domestico con web app e integrazione Home Assistant.
 
@@ -22,9 +22,9 @@ Le azioni che lo richiedono passano attraverso conferma esplicita.
 
 ## Esplora
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/ahoo/)
+[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/assistente-domotico/)
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/ahoo.html)
+[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/assistente-domotico.html)
 
 ## Ambito pubblico
 

@@ -1,6 +1,6 @@
 # Progetti di Emanuele Montalto
 
-Panoramiche dei miei progetti personali e del percorso di sviluppo software. Il codice originale resta privato: questo repository contiene soltanto materiali di presentazione preparati separatamente.
+Panoramiche dei miei progetti e del percorso di sviluppo software. Il codice originale resta privato: questo repository contiene soltanto materiali di presentazione preparati separatamente.
 
 [Portfolio interattivo](https://portfolio.lele-tradevalue.com) · [GitHub](https://github.com/lelee25) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto-bba6a9300/)
 
@@ -10,8 +10,8 @@ Panoramiche dei miei progetti personali e del percorso di sviluppo software. Il 
 |---|---|---|---|
 | [Splitro](progetti/splitro/) | Prodotti | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/splitro/) |
 | [RECALL](progetti/recall/) | AI e dati | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/recall/) |
-| [Ahoo](progetti/ahoo/) | Prodotti | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/ahoo/) |
-| [Il Mago dell’Affare](progetti/mago/) | Prodotti | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/mago/) |
+| [Assistente AI per la domotica](progetti/assistente-domotico/) | Prodotti | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/assistente-domotico/) |
+| [E-commerce e assistente AI](progetti/ecommerce-assistente-ai/) | Prodotti | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/ecommerce-assistente-ai/) |
 | [ReduceAll](progetti/reduceall/) | Prodotti | React, TypeScript, PWA | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/reduceall/) |
 | [TRADEVALUE](progetti/tradevalue/) | Economia | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/tradevalue/) |
 | [Catalyst Scanner](progetti/catalyst/) | Economia | Python, APScheduler, HTTPX | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/catalyst/) |
