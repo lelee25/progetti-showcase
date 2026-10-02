@@ -1,29 +1,33 @@
 # FIDIA
 
-Progetto personale · Economia
+Project work universitario · Economia
 
-Workspace per raccolta e consultazione di informazioni a supporto dell’analisi.
+Project work della magistrale in Economia e Management a Tor Vergata: caso di studio FIDIA, con analisi strutturata, fonti tracciate e visualizzazioni interattive.
 
 ## Esigenza
 
-Collegare lo studio economico a informazioni aziendali.
+Presentare in modo esplorabile un’analisi di governance, gruppi aziendali e sostenibilità.
 
 ## Contributo
 
-Ho sviluppato strumenti di organizzazione delle informazioni e un’interfaccia di consultazione.
+Ho approfondito e reinterpretato i materiali del project work, strutturando dati, fonti e analisi di governance, gruppi aziendali ed equilibri. Ho sviluppato una piattaforma navigabile con visualizzazioni interattive per presentare i risultati.
 
 ## Stack
 
-Python, React, TypeScript.
+React, TypeScript, Python, D3.js, Three.js.
 
 ## Una scelta da raccontare
 
-La presentazione distingue dati, fonti e interpretazioni.
+Distinguere fonti documentali, cornici teoriche e interpretazioni; rendere navigabili i contenuti dell’analisi anziché limitarli a una presentazione statica.
 
 ## Esplora
 
 [Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/fidia/)
 
+[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/fidia.html)
+
+[Esplora la prova dimostrativa](https://portfolio.lele-tradevalue.com/progetti/fidia/#demo)
+
 ## Ambito pubblico
 
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+Elaborato accademico relativo a FIDIA S.p.A., non un incarico per la società. La prova pubblica illustra il percorso di lettura; codice, documenti completi e analisi dettagliate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.

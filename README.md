@@ -26,7 +26,7 @@ Panoramiche dei miei progetti e del percorso di sviluppo software. Il codice ori
 | [MarkOn](progetti/markon/) | Automazione | Python, FastAPI, ReportLab | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/markon/) |
 | [Marketing Forge](progetti/marketing-forge/) | Automazione | Node.js, CLI, Automazione | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/marketing-forge/) |
 | [Radar Forge](progetti/radar-forge/) | Economia | Node.js, CLI, Ricerca | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/radar-forge/) |
-| [FIDIA](progetti/fidia/) | Economia | Python, React, TypeScript | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/fidia/) |
+| [FIDIA](progetti/fidia/) | Economia | React, TypeScript, Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/fidia/) |
 | [Study Starter Kit](progetti/study/) | Economia | Web, PWA, Ricerca | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/study/) |
 | [Stack Scanner](progetti/stack-scanner/) | Prodotti | JavaScript, Web API, iOS | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/stack-scanner/) |
 | [Billtap](progetti/billtap/) | Prodotti | Python, NFC, Web | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/billtap/) |
@@ -62,4 +62,4 @@ Panoramiche dei miei progetti e del percorso di sviluppo software. Il codice ori
 | [SSH Tools](progetti/sshor/) | Laboratorio | CLI | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/sshor/) |
 | [CLI Tools](progetti/cliall/) | Laboratorio | CLI | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/cliall/) |
 
-Le schede di laboratorio descrivono esperimenti e non implicano prestazioni validate. Aggiornato al 2 ottobre 2026.
+Le schede di laboratorio descrivono esperimenti e non implicano prestazioni validate. Aggiornato al 3 ottobre 2026.
