@@ -24,6 +24,8 @@ La presentazione illustra il flusso senza esporre registrazioni private.
 
 [Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/traducimi/)
 
+[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/traducimi.html)
+
 ## Ambito pubblico
 
 Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.

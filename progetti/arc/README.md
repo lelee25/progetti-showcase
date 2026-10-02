@@ -24,6 +24,8 @@ La panoramica omette portafogli, transazioni e configurazioni personali.
 
 [Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/arc/)
 
+[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/arc.html)
+
 ## Ambito pubblico
 
 Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.

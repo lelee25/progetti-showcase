@@ -24,6 +24,8 @@ Schede e riferimenti rendono tracciabile il lavoro di approfondimento.
 
 [Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/study/)
 
+[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/study.html)
+
 ## Ambito pubblico
 
 Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.

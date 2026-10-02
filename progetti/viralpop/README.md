@@ -24,6 +24,8 @@ Progetto sperimentale: nessuna metrica commerciale inventata.
 
 [Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/viralpop/)
 
+[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/viralpop.html)
+
 ## Ambito pubblico
 
 Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.

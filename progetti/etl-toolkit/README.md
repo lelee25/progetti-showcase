@@ -24,6 +24,8 @@ Scheda essenziale: le funzionalità e le prestazioni non sono dichiarate come va
 
 [Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/etl-toolkit/)
 
+[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/etl-toolkit.html)
+
 ## Ambito pubblico
 
 Panoramica generale. Codice e configurazioni restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
