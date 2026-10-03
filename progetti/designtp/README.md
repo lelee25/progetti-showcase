@@ -1,24 +1,24 @@
 # DesignTP
 
-Laboratorio personale · Laboratorio
+Libreria personale · Prodotti
 
-Sperimentazione di interfacce.
+Libreria frontend con componenti React, token di design, animazioni e ambienti di documentazione.
 
 ## Esigenza
 
-Un esperimento per esplorare strumenti e flussi di lavoro.
+Riutilizzare componenti e animazioni mantenendo coerenza fra applicazioni.
 
 ## Contributo
 
-Sperimentazione personale. La scheda mostra solo una sintesi del progetto.
+Ho organizzato primitive UI, componenti animati, pattern e token in pacchetti riutilizzabili, con Storybook e un playground per i consumatori della libreria.
 
 ## Stack
 
-TypeScript.
+React, TypeScript, Tailwind CSS, GSAP, Storybook.
 
 ## Una scelta da raccontare
 
-Scheda essenziale: le funzionalità e le prestazioni non sono dichiarate come validate.
+Le animazioni prevedono supporto per rendering lato server e preferenze di movimento ridotto.
 
 ## Esplora
 

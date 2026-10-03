@@ -2,7 +2,7 @@
 
 Progetto personale · AI e dati
 
-Assistente sperimentale per prenotazioni con integrazioni web e voce.
+Assistente di prenotazione con API, console vocale e percorsi di conferma controllati.
 
 ## Esigenza
 
@@ -18,7 +18,7 @@ Python, FastAPI, WebRTC, API.
 
 ## Una scelta da raccontare
 
-Solo esempi fittizi nella presentazione; nessun dato di pazienti o cliente.
+La conferma della prenotazione è un’azione esplicita dell’utente. Una futura prova pubblica usa un’agenda sintetica separata dai servizi reali.
 
 ## Esplora
 

@@ -2,7 +2,7 @@
 
 Progetto personale · Automazione
 
-Strumenti e workflow personali per ricerca e produzione di contenuti.
+Workflow di ricerca e produzione di contenuti, con strumenti di rendering e revisione.
 
 ## Esigenza
 
@@ -10,15 +10,15 @@ Coordinare attività e contenuti di marketing.
 
 ## Contributo
 
-Ho organizzato attività ripetibili e punti di revisione.
+Ho collegato ricerca, preparazione degli asset e controlli di qualità in un workflow con coda di revisione umana.
 
 ## Stack
 
-Node.js, CLI, Automazione.
+Node.js, JavaScript, Satori, Playwright, CLI.
 
 ## Una scelta da raccontare
 
-La panoramica pubblica evita dati commerciali e piani strategici.
+La pubblicazione passa da un’approvazione esplicita; brand, campagne e configurazioni interne restano riservati.
 
 ## Esplora
 

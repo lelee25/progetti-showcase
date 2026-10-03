@@ -1,24 +1,24 @@
 # Agentkit
 
-Laboratorio personale · Laboratorio
+Libreria personale · AI e dati
 
-Framework e tooling personale per agenti AI.
+Libreria Python per agenti AI: esecuzione, strumenti tipizzati, streaming, memoria e integrazioni.
 
 ## Esigenza
 
-Un esperimento per esplorare strumenti e flussi di lavoro.
+Riutilizzare gli stessi strumenti per costruire applicazioni agentiche diverse.
 
 ## Contributo
 
-Sperimentazione personale. La scheda mostra solo una sintesi del progetto.
+Ho sviluppato una base riutilizzabile per applicazioni agentiche, con un ciclo di esecuzione e un registro di strumenti validati. È impiegata in più progetti personali.
 
 ## Stack
 
-Python.
+Python, Pydantic, FastAPI, MCP, OpenTelemetry.
 
 ## Una scelta da raccontare
 
-Scheda essenziale: le funzionalità e le prestazioni non sono dichiarate come validate.
+Il ciclo agentico e i canali applicativi sono separati: gli strumenti possono essere riutilizzati da web, terminale e servizi conversazionali.
 
 ## Esplora
 

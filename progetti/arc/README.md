@@ -2,7 +2,7 @@
 
 Progetto personale · Prodotti
 
-Tooling per operazioni e interazioni tra reti.
+Tooling blockchain per verifiche, simulazioni e recupero di operazioni di bridge.
 
 ## Esigenza
 
@@ -10,15 +10,15 @@ Esplorare integrazioni tra servizi blockchain.
 
 ## Contributo
 
-Ho lavorato su un’interfaccia operativa per integrazioni blockchain.
+Ho sviluppato un percorso operativo con verifiche preliminari, simulazione predefinita e journal per riprendere le operazioni.
 
 ## Stack
 
-TypeScript, Blockchain, CLI.
+TypeScript, Node.js, viem, CCTP.
 
 ## Una scelta da raccontare
 
-La panoramica omette portafogli, transazioni e configurazioni personali.
+La vetrina descrive verifica e simulazione. Portafogli, chiavi e operazioni personali restano privati; non vengono eseguiti trasferimenti dal portfolio.
 
 ## Esplora
 

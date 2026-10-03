@@ -2,7 +2,7 @@
 
 Progetto personale · Economia
 
-Workflow di ricerca su mercati e opportunità con fonti e report.
+Ricerca di opportunità di mercato con raccolta di segnali, provenienza delle fonti e report.
 
 ## Esigenza
 
@@ -10,7 +10,7 @@ Trasformare una ricerca di opportunità in materiali consultabili.
 
 ## Contributo
 
-Ho strutturato raccolta delle fonti e sintesi dei risultati.
+Ho organizzato strumenti di raccolta dei segnali, controlli sulle fonti e un workflow di valutazione delle opportunità.
 
 ## Stack
 
@@ -18,7 +18,7 @@ Node.js, CLI, Ricerca.
 
 ## Una scelta da raccontare
 
-Le valutazioni interne delle opportunità non vengono esposte.
+I report conservano i riferimenti alle fonti; le ricerche strategiche personali non vengono pubblicate.
 
 ## Esplora
 

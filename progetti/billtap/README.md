@@ -2,7 +2,7 @@
 
 Progetto personale · Prodotti
 
-Prototipo di esperienza NFC per condivisione del conto e pagamenti.
+Prototipo web per dividere il conto al tavolo tramite NFC, con quote e stato condiviso.
 
 ## Esigenza
 
@@ -10,15 +10,15 @@ Facilitare l’interazione con il conto al tavolo.
 
 ## Contributo
 
-Ho esplorato il collegamento tra esperienza al tavolo e flussi web.
+Ho collegato l’accesso tramite tag NFC alla gestione del conto e alla ripartizione delle quote, con aggiornamenti dello stato per i partecipanti.
 
 ## Stack
 
-Python, NFC, Web.
+Python, FastAPI, SQLite, NFC, Stripe.
 
 ## Una scelta da raccontare
 
-Nessun pagamento reale viene esposto come demo nel portfolio.
+La presentazione distingue gestione del conto e autorizzazione del pagamento. Una prova pubblica deve usare il processore dimostrativo del progetto.
 
 ## Esplora
 

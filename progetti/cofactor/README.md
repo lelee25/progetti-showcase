@@ -2,7 +2,7 @@
 
 Progetto personale · Prodotti
 
-Diario alimentare personale con interazione Telegram.
+Diario alimentare attraverso Telegram, con annotazioni strutturate e storico consultabile.
 
 ## Esigenza
 
@@ -14,11 +14,11 @@ Ho sviluppato la raccolta e l’organizzazione delle annotazioni in un’interfa
 
 ## Stack
 
-Python, FastAPI, SQLite, Telegram.
+Python, SQLite, Telegram, agentkit.
 
 ## Una scelta da raccontare
 
-È un progetto di diario software; non vengono pubblicati dati sanitari personali.
+I dati personali restano riservati. La vetrina presenta il flusso di registrazione; una prova potrà usare soltanto esempi sintetici.
 
 ## Esplora
 

@@ -2,7 +2,7 @@
 
 Progetto personale · Economia
 
-Kit di studio per organizzare contenuti e schede di ricerca.
+Kit di studio per applicare la teoria ai fatti, con schede, fonti tracciate e piattaforma web.
 
 ## Esigenza
 
@@ -10,15 +10,15 @@ Passare dalla teoria alle fonti e ai fatti verificabili.
 
 ## Contributo
 
-Ho strutturato materiali riutilizzabili per lo studio economico.
+Ho trasformato il metodo del project work FIDIA in un kit riutilizzabile, con estrazione dei documenti, verifica delle fonti e generazione delle schede web.
 
 ## Stack
 
-Web, PWA, Ricerca.
+Python, JavaScript, HTML, CSS.
 
 ## Una scelta da raccontare
 
-Schede e riferimenti rendono tracciabile il lavoro di approfondimento.
+Gli script verificano hash e citazioni rispetto ai documenti disponibili, distinguendo errori e informazioni mancanti.
 
 ## Esplora
 

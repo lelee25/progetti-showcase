@@ -2,7 +2,7 @@
 
 Progetto personale · AI e dati
 
-Studio personale per sintesi vocale e trascrizione.
+Studio web per sintesi vocale, gestione delle voci e trascrizione, con struttura SaaS.
 
 ## Esigenza
 
@@ -14,7 +14,7 @@ Ho collegato servizi audio, interfaccia e gestione delle elaborazioni.
 
 ## Stack
 
-Python, FastAPI, React, SQLite.
+Python, FastAPI, React, SQLite, Mistral Voxtral.
 
 ## Una scelta da raccontare
 

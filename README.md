@@ -8,6 +8,7 @@ Panoramiche dei miei progetti e del percorso di sviluppo software. Il codice ori
 
 | Progetto | Ambito | Stack | Scheda |
 |---|---|---|---|
+| [AURIGA](progetti/auriga/) | AI e dati | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/auriga/) |
 | [Splitro](progetti/splitro/) | Prodotti | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/splitro/) |
 | [RECALL](progetti/recall/) | AI e dati | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/recall/) |
 | [Assistente AI per la domotica](progetti/assistente-domotico/) | Prodotti | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/assistente-domotico/) |
@@ -20,22 +21,22 @@ Panoramiche dei miei progetti e del percorso di sviluppo software. Il codice ori
 | [Copiami](progetti/copiami/) | Prodotti | JavaScript, Node.js, Web | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/copiami/) |
 | [Loquai](progetti/loquai/) | AI e dati | Python, FastAPI, React | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/loquai/) |
 | [Traducimi](progetti/traducimi/) | AI e dati | Python, Whisper, FFmpeg | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/traducimi/) |
-| [CoFactor](progetti/cofactor/) | Prodotti | Python, FastAPI, SQLite | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/cofactor/) |
+| [CoFactor](progetti/cofactor/) | Prodotti | Python, SQLite, Telegram | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/cofactor/) |
 | [PsychiAI](progetti/psychiai/) | AI e dati | Python, FastAPI, Pydantic | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/psychiai/) |
 | [SitoVeloce](progetti/sitoveloce/) | Automazione | Web, Automazione, Quality checks | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/sitoveloce/) |
 | [MarkOn](progetti/markon/) | Automazione | Python, FastAPI, ReportLab | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/markon/) |
-| [Marketing Forge](progetti/marketing-forge/) | Automazione | Node.js, CLI, Automazione | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/marketing-forge/) |
+| [Marketing Forge](progetti/marketing-forge/) | Automazione | Node.js, JavaScript, Satori | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/marketing-forge/) |
 | [Radar Forge](progetti/radar-forge/) | Economia | Node.js, CLI, Ricerca | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/radar-forge/) |
 | [FIDIA](progetti/fidia/) | Economia | React, TypeScript, Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/fidia/) |
-| [Study Starter Kit](progetti/study/) | Economia | Web, PWA, Ricerca | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/study/) |
+| [Study Starter Kit](progetti/study/) | Economia | Python, JavaScript, HTML | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/study/) |
 | [Stack Scanner](progetti/stack-scanner/) | Prodotti | JavaScript, Web API, iOS | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/stack-scanner/) |
-| [Billtap](progetti/billtap/) | Prodotti | Python, NFC, Web | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/billtap/) |
-| [Officina Video](progetti/officina-video/) | Automazione | FFmpeg, HyperFrames, CLI | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/officina-video/) |
+| [Billtap](progetti/billtap/) | Prodotti | Python, FastAPI, SQLite | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/billtap/) |
+| [Officina Video](progetti/officina-video/) | Automazione | Python, Node.js, FFmpeg | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/officina-video/) |
 | [Viralpop OS](progetti/viralpop/) | Automazione | TypeScript, Node.js, Web | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/viralpop/) |
-| [ARC Bridge](progetti/arc/) | Prodotti | TypeScript, Blockchain, CLI | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/arc/) |
+| [ARC Bridge](progetti/arc/) | Prodotti | TypeScript, Node.js, viem | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/arc/) |
 | [Fastdoc](progetti/fastdoc/) | AI e dati | Python, FastAPI, WebRTC | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/fastdoc/) |
 | [Diario AI](progetti/diario-ai/) | AI e dati | Python, LLM, HTML | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/diario-ai/) |
-| [Agentkit](progetti/agentkit/) | Laboratorio | Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/agentkit/) |
+| [Agentkit](progetti/agentkit/) | AI e dati | Python, Pydantic, FastAPI | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/agentkit/) |
 | [TubeDrop](progetti/tubedrop/) | Laboratorio | Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/tubedrop/) |
 | [ETL Toolkit](progetti/etl-toolkit/) | Laboratorio | Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/etl-toolkit/) |
 | [Knowdent](progetti/knowdent/) | Laboratorio | Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/knowdent/) |
@@ -52,7 +53,7 @@ Panoramiche dei miei progetti e del percorso di sviluppo software. Il codice ori
 | [Streamflow](progetti/streamflow/) | Laboratorio | Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/streamflow/) |
 | [Whats](progetti/whats/) | Laboratorio | Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/whats/) |
 | [Coinglass API](progetti/coinglass-api/) | Laboratorio | Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/coinglass-api/) |
-| [DesignTP](progetti/designtp/) | Laboratorio | TypeScript | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/designtp/) |
+| [DesignTP](progetti/designtp/) | Prodotti | React, TypeScript, Tailwind CSS | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/designtp/) |
 | [UIX](progetti/uix/) | Laboratorio | Web | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/uix/) |
 | [Orchestra](progetti/orchestra/) | Laboratorio | Python | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/orchestra/) |
 | [Film](progetti/film/) | Laboratorio | Web | [Portfolio ↗](https://portfolio.lele-tradevalue.com/progetti/film/) |

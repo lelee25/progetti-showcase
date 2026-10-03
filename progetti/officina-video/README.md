@@ -2,7 +2,7 @@
 
 Progetto personale · Automazione
 
-Tooling personale per pipeline video e asset multimediali.
+Officina di produzione video: elaborazione dei media, composizioni e strumenti per i render.
 
 ## Esigenza
 
@@ -14,7 +14,7 @@ Ho collegato elaborazione dei media e workflow di produzione.
 
 ## Stack
 
-FFmpeg, HyperFrames, CLI.
+Python, Node.js, FFmpeg, HyperFrames.
 
 ## Una scelta da raccontare
 
