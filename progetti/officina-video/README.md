@@ -1,31 +1,27 @@
 # Officina Video
 
-Progetto personale · Automazione
+> Un’officina per video automatici: elaborazione dei media, composizioni programmabili e rendering.
 
-Officina di produzione video: elaborazione dei media, composizioni e strumenti per i render.
+**Automazione** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Coordinare strumenti e materiali per creare video.
 
-## Contributo
+## Il mio contributo
 
 Ho collegato elaborazione dei media e workflow di produzione.
 
 ## Stack
 
-Python, Node.js, FFmpeg, HyperFrames.
+`Python` `Node.js` `FFmpeg` `HyperFrames`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/officina-video/)
 
-Presentazione del processo senza materiali o credenziali private.
+<details><summary>In English</summary>
 
-## Esplora
+A workshop for automated video: media processing, programmable compositions and rendering.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/officina-video/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/officina-video.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

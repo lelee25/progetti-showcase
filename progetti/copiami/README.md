@@ -1,31 +1,27 @@
 # Copiami
 
-Progetto personale · Prodotti
+> Appunti condivisi tra i miei dispositivi: testo, immagini e file che si cancellano da soli.
 
-Strumento privato per trasferimenti temporanei di testo, immagini e file.
+**Prodotto** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Passare un contenuto tra telefono e computer senza complicare il flusso.
 
-## Contributo
+## Il mio contributo
 
 Ho sviluppato il flusso tra dispositivi e l’interfaccia di invio e recupero.
 
 ## Stack
 
-JavaScript, Node.js, Web.
+`JavaScript` `Node.js` `Web`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/copiami/)
 
-Condivisione temporanea con accesso controllato.
+<details><summary>In English</summary>
 
-## Esplora
+A clipboard shared across my devices: text, images and files that delete themselves.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/copiami/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/copiami.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

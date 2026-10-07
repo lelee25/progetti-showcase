@@ -1,31 +1,27 @@
 # Triarch
 
-Progetto personale · Economia
+> Un sistema multiagente con controlli incrociati e una dashboard per le simulazioni.
 
-Progetto personale multiagente con controlli e dashboard per simulazioni.
+**Economia** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Esplorare un ambiente di ricerca su dati di mercato.
 
-## Contributo
+## Il mio contributo
 
 Ho integrato fonti, componenti di analisi e un’interfaccia per consultare i risultati.
 
 ## Stack
 
-Python, React, API, Docker.
+`Python` `React` `API` `Docker`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/triarch/)
 
-Le regole strategiche e i dati operativi restano privati.
+<details><summary>In English</summary>
 
-## Esplora
+A multi-agent system with cross-checks and a dashboard for simulations.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/triarch/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/triarch.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

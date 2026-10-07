@@ -1,31 +1,27 @@
 # Streamflow
 
-Laboratorio personale · Laboratorio
+> Sperimentazione di gestione flussi.
 
-Sperimentazione di gestione flussi.
+**Laboratorio** · Laboratorio personale
 
-## Esigenza
+## L’esigenza
 
 Un esperimento per esplorare strumenti e flussi di lavoro.
 
-## Contributo
+## Il mio contributo
 
 Sperimentazione personale. La scheda mostra solo una sintesi del progetto.
 
 ## Stack
 
-Python.
+`Python`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/streamflow/)
 
-Scheda essenziale: le funzionalità e le prestazioni non sono dichiarate come validate.
+<details><summary>In English</summary>
 
-## Esplora
+Experiments with flow management.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/streamflow/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/streamflow.html)
-
-## Ambito pubblico
-
-Panoramica generale. Codice e configurazioni restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica generale. Codice e configurazioni restano privati.</sub>

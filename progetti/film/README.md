@@ -1,31 +1,27 @@
 # Film
 
-Laboratorio personale · Laboratorio
+> Prototipo personale.
 
-Prototipo personale.
+**Laboratorio** · Laboratorio personale
 
-## Esigenza
+## L’esigenza
 
 Un esperimento per esplorare strumenti e flussi di lavoro.
 
-## Contributo
+## Il mio contributo
 
 Sperimentazione personale. La scheda mostra solo una sintesi del progetto.
 
 ## Stack
 
-Web.
+`Web`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/film/)
 
-Scheda essenziale: le funzionalità e le prestazioni non sono dichiarate come validate.
+<details><summary>In English</summary>
 
-## Esplora
+A personal prototype.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/film/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/film.html)
-
-## Ambito pubblico
-
-Panoramica generale. Codice e configurazioni restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica generale. Codice e configurazioni restano privati.</sub>

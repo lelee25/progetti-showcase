@@ -1,31 +1,27 @@
 # Marketing Forge
 
-Progetto personale · Automazione
+> Una catena di lavoro per i contenuti: ricerca, bozza, grafiche generate e revisione prima della pubblicazione.
 
-Workflow di ricerca e produzione di contenuti, con strumenti di rendering e revisione.
+**Automazione** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Coordinare attività e contenuti di marketing.
 
-## Contributo
+## Il mio contributo
 
 Ho collegato ricerca, preparazione degli asset e controlli di qualità in un workflow con coda di revisione umana.
 
 ## Stack
 
-Node.js, JavaScript, Satori, Playwright, CLI.
+`Node.js` `JavaScript` `Satori` `Playwright` `CLI`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/marketing-forge/)
 
-La pubblicazione passa da un’approvazione esplicita; brand, campagne e configurazioni interne restano riservati.
+<details><summary>In English</summary>
 
-## Esplora
+A content pipeline: research, draft, generated visuals and review before publishing.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/marketing-forge/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/marketing-forge.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

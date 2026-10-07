@@ -1,31 +1,27 @@
 # Study Starter Kit
 
-Progetto personale · Economia
+> Un kit per studiare applicando la teoria ai fatti: schede, fonti citate e una piccola piattaforma web.
 
-Kit di studio per applicare la teoria ai fatti, con schede, fonti tracciate e piattaforma web.
+**Economia** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Passare dalla teoria alle fonti e ai fatti verificabili.
 
-## Contributo
+## Il mio contributo
 
 Ho trasformato il metodo del project work FIDIA in un kit riutilizzabile, con estrazione dei documenti, verifica delle fonti e generazione delle schede web.
 
 ## Stack
 
-Python, JavaScript, HTML, CSS.
+`Python` `JavaScript` `HTML` `CSS`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/study/)
 
-Gli script verificano hash e citazioni rispetto ai documenti disponibili, distinguendo errori e informazioni mancanti.
+<details><summary>In English</summary>
 
-## Esplora
+A study kit for applying theory to real facts: cards, cited sources and a small web platform.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/study/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/study.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

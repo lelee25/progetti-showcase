@@ -1,31 +1,27 @@
 # Billtap
 
-Progetto personale · Prodotti
+> Dividere il conto al ristorante avvicinando il telefono a un tag NFC sul tavolo: ognuno vede la propria quota e paga la sua parte.
 
-Prototipo web per dividere il conto al tavolo tramite NFC, con quote e stato condiviso.
+**Prodotto** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Facilitare l’interazione con il conto al tavolo.
 
-## Contributo
+## Il mio contributo
 
 Ho collegato l’accesso tramite tag NFC alla gestione del conto e alla ripartizione delle quote, con aggiornamenti dello stato per i partecipanti.
 
 ## Stack
 
-Python, FastAPI, SQLite, NFC, Stripe.
+`Python` `FastAPI` `SQLite` `NFC` `Stripe`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/billtap/)
 
-La presentazione distingue gestione del conto e autorizzazione del pagamento. Una prova pubblica deve usare il processore dimostrativo del progetto.
+<details><summary>In English</summary>
 
-## Esplora
+Split the restaurant bill by tapping your phone on an NFC tag at the table: everyone sees their share and pays their part.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/billtap/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/billtap.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

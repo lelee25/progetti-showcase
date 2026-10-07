@@ -1,31 +1,27 @@
 # Fastdoc
 
-Progetto personale · AI e dati
+> Un assistente che gestisce le prenotazioni in chat e al telefono, con una console vocale e una conferma prima di ogni appuntamento.
 
-Assistente di prenotazione con API, console vocale e percorsi di conferma controllati.
+**AI e dati** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Gestire richieste di prenotazione attraverso più canali.
 
-## Contributo
+## Il mio contributo
 
 Ho sviluppato il collegamento tra conversazione, servizi e gestione delle richieste.
 
 ## Stack
 
-Python, FastAPI, WebRTC, API.
+`Python` `FastAPI` `WebRTC` `API`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/fastdoc/)
 
-La conferma della prenotazione è un’azione esplicita dell’utente. Una futura prova pubblica usa un’agenda sintetica separata dai servizi reali.
+<details><summary>In English</summary>
 
-## Esplora
+An assistant that handles bookings in chat and over the phone, with a voice console and a confirmation before every appointment.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/fastdoc/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/fastdoc.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

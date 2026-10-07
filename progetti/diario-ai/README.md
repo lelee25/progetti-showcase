@@ -1,31 +1,27 @@
 # Diario AI
 
-Progetto personale · AI e dati
+> Converte, organizza e riassume diari personali.
 
-Strumenti di organizzazione, conversione e sintesi di diari.
+**AI e dati** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Rendere più consultabili testi e annotazioni lunghe.
 
-## Contributo
+## Il mio contributo
 
 Ho lavorato sulla trasformazione del testo e sulla conservazione dei riferimenti alla fonte.
 
 ## Stack
 
-Python, LLM, HTML.
+`Python` `LLM` `HTML`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/diario-ai/)
 
-I contenuti reali dei diari restano privati.
+<details><summary>In English</summary>
 
-## Esplora
+Converts, organises and summarises personal journals.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/diario-ai/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/diario-ai.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

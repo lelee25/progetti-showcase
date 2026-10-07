@@ -1,31 +1,27 @@
 # CoFactor
 
-Progetto personale · Prodotti
+> Un diario alimentare che si tiene su Telegram: scrivi o fotografi cosa mangi, il bot lo struttura e lo ritrovi nello storico.
 
-Diario alimentare attraverso Telegram, con annotazioni strutturate e storico consultabile.
+**Prodotto** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Organizzare annotazioni alimentari in modo accessibile.
 
-## Contributo
+## Il mio contributo
 
 Ho sviluppato la raccolta e l’organizzazione delle annotazioni in un’interfaccia conversazionale.
 
 ## Stack
 
-Python, SQLite, Telegram, agentkit.
+`Python` `SQLite` `Telegram` `agentkit`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/cofactor/)
 
-I dati personali restano riservati. La vetrina presenta il flusso di registrazione; una prova potrà usare soltanto esempi sintetici.
+<details><summary>In English</summary>
 
-## Esplora
+A food diary you keep on Telegram: write or snap what you eat, the bot structures it and you find it in your history.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/cofactor/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/cofactor.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

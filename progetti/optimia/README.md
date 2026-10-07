@@ -1,31 +1,27 @@
 # Optimia
 
-Progetto personale · Economia
+> Una pipeline di segnali con esecuzione simulata e una dashboard per controllarla.
 
-Pipeline di segnali e workflow di esecuzione con modalità paper.
+**Economia** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Tracciare il percorso di un segnale fino a una simulazione.
 
-## Contributo
+## Il mio contributo
 
 Ho lavorato su normalizzazione, coda e gestione delle operazioni.
 
 ## Stack
 
-Python, React, TypeScript, Docker.
+`Python` `React` `TypeScript` `Docker`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/optimia/)
 
-Le presentazioni pubbliche utilizzano esempi di paper trading.
+<details><summary>In English</summary>
 
-## Esplora
+A signal pipeline with simulated execution and a dashboard to control it.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/optimia/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/optimia.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

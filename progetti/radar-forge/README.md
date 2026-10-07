@@ -1,31 +1,27 @@
 # Radar Forge
 
-Progetto personale · Economia
+> Raccoglie segnali di mercato da fonti diverse, ne conserva la provenienza e li trasforma in report di opportunità.
 
-Ricerca di opportunità di mercato con raccolta di segnali, provenienza delle fonti e report.
+**Economia** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Trasformare una ricerca di opportunità in materiali consultabili.
 
-## Contributo
+## Il mio contributo
 
 Ho organizzato strumenti di raccolta dei segnali, controlli sulle fonti e un workflow di valutazione delle opportunità.
 
 ## Stack
 
-Node.js, CLI, Ricerca.
+`Node.js` `CLI` `Ricerca`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/radar-forge/)
 
-I report conservano i riferimenti alle fonti; le ricerche strategiche personali non vengono pubblicate.
+<details><summary>In English</summary>
 
-## Esplora
+Collects market signals from different sources, keeps track of where they came from and turns them into opportunity reports.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/radar-forge/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/radar-forge.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

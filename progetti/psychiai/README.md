@@ -1,31 +1,27 @@
 # PsychiAI
 
-Progetto personale · AI e dati
+> Un compagno di riflessione con memoria e voce, costruito su una base di conoscenza curata.
 
-Progetto di supporto alla riflessione con conoscenza, memoria e interazione vocale.
+**AI e dati** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Esplorare strumenti per riflessione e diario personale.
 
-## Contributo
+## Il mio contributo
 
 Ho integrato strumenti di diario, ricerca e conversazione con vincoli dedicati.
 
 ## Stack
 
-Python, FastAPI, Pydantic, RAG.
+`Python` `FastAPI` `Pydantic` `RAG`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/psychiai/)
 
-Il progetto non è presentato come strumento diagnostico o trattamento.
+<details><summary>In English</summary>
 
-## Esplora
+A reflection companion with memory and voice, built on a curated knowledge base.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/psychiai/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/psychiai.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

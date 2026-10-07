@@ -1,31 +1,27 @@
 # JSON Tools
 
-Laboratorio personale · Laboratorio
+> Sperimentazione di trasformazione dati.
 
-Sperimentazione di trasformazione dati.
+**Laboratorio** · Laboratorio personale
 
-## Esigenza
+## L’esigenza
 
 Un esperimento per esplorare strumenti e flussi di lavoro.
 
-## Contributo
+## Il mio contributo
 
 Sperimentazione personale. La scheda mostra solo una sintesi del progetto.
 
 ## Stack
 
-Python.
+`Python`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/json-vassura/)
 
-Scheda essenziale: le funzionalità e le prestazioni non sono dichiarate come validate.
+<details><summary>In English</summary>
 
-## Esplora
+Experiments with data transformation.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/json-vassura/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/json-vassura.html)
-
-## Ambito pubblico
-
-Panoramica generale. Codice e configurazioni restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica generale. Codice e configurazioni restano privati.</sub>

@@ -1,31 +1,27 @@
 # Catalyst Scanner
 
-Progetto personale · Economia
+> Legge feed pubblici di progetti — codice, blog, governance — per cogliere eventi in anticipo, e avvisa su Telegram.
 
-Raccolta di eventi da feed pubblici con notifiche Telegram.
+**Economia** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Seguire gli eventi di un progetto distribuiti tra molte fonti.
 
-## Contributo
+## Il mio contributo
 
 Ho sviluppato il collegamento tra raccolta dei feed, elaborazione e notifiche.
 
 ## Stack
 
-Python, APScheduler, HTTPX, Telegram.
+`Python` `APScheduler` `HTTPX` `Telegram`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/catalyst/)
 
-Il sistema si ferma alle segnalazioni e non invia ordini.
+<details><summary>In English</summary>
 
-## Esplora
+Reads public project feeds — code, blogs, governance — to catch events early, and sends alerts on Telegram.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/catalyst/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/catalyst.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

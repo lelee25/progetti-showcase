@@ -1,31 +1,27 @@
 # Traducimi
 
-Progetto personale · AI e dati
+> Trascrizione e traduzione dell’audio in tempo reale, in locale.
 
-Strumenti per trascrizione e traduzione in tempo reale.
+**AI e dati** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Seguire contenuti parlati in inglese con una resa italiana.
 
-## Contributo
+## Il mio contributo
 
 Ho integrato acquisizione audio, riconoscimento e visualizzazione della traduzione.
 
 ## Stack
 
-Python, Whisper, FFmpeg.
+`Python` `Whisper` `FFmpeg`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/traducimi/)
 
-La presentazione illustra il flusso senza esporre registrazioni private.
+<details><summary>In English</summary>
 
-## Esplora
+Real-time audio transcription and translation, running locally.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/traducimi/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/traducimi.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

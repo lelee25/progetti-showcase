@@ -1,31 +1,27 @@
 # Stack Scanner
 
-Progetto personale · Prodotti
+> Scanner di codici a barre nel browser, curato per funzionare bene anche su iPhone.
 
-Prototipo di scansione barcode con attenzione alla compatibilità mobile.
+**Prodotto** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Leggere codici dal browser del telefono.
 
-## Contributo
+## Il mio contributo
 
 Ho esplorato acquisizione dalla fotocamera e alternative di riconoscimento.
 
 ## Stack
 
-JavaScript, Web API, iOS.
+`JavaScript` `Web API` `iOS`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/stack-scanner/)
 
-Interfaccia mobile con gestione delle differenze tra browser.
+<details><summary>In English</summary>
 
-## Esplora
+An in-browser barcode scanner, tuned to work well on iPhone too.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/stack-scanner/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/stack-scanner.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

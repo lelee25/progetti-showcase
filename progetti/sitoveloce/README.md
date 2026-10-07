@@ -1,31 +1,27 @@
 # SitoVeloce
 
-Progetto personale · Automazione
+> Un flusso di lavoro per costruire siti in fretta, con controlli di qualità automatici.
 
-Workflow e strumenti per la produzione di siti web.
+**Automazione** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Rendere ripetibile il percorso dalla richiesta a un sito.
 
-## Contributo
+## Il mio contributo
 
 Ho strutturato le fasi di raccolta, sviluppo e controllo del risultato.
 
 ## Stack
 
-Web, Automazione, Quality checks.
+`Web` `Automazione` `Quality checks`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/sitoveloce/)
 
-Un processo in evoluzione con verifiche e revisione.
+<details><summary>In English</summary>
 
-## Esplora
+A workflow for building websites quickly, with automatic quality checks.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/sitoveloce/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/sitoveloce.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>

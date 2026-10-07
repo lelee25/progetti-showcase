@@ -1,31 +1,27 @@
 # MarkOn
 
-Progetto personale · Automazione
+> Uno studio locale per materiali di marketing: genera, esporta in PDF e tiene traccia delle approvazioni.
 
-Studio locale per materiali di marketing con esportazioni e approvazioni.
+**Automazione** · Progetto personale
 
-## Esigenza
+## L’esigenza
 
 Organizzare produzione, versioni e revisione dei contenuti.
 
-## Contributo
+## Il mio contributo
 
 Ho collegato generazione dei materiali, versionamento e revisione umana.
 
 ## Stack
 
-Python, FastAPI, ReportLab, Playwright.
+`Python` `FastAPI` `ReportLab` `Playwright`
 
-## Una scelta da raccontare
+[Scheda nel portfolio →](https://portfolio.lele-tradevalue.com/progetti/markon/)
 
-Le pubblicazioni sono distinte dalla preparazione dei contenuti.
+<details><summary>In English</summary>
 
-## Esplora
+A local studio for marketing material: generate, export to PDF and track approvals.
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/markon/)
+</details>
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/markon.html)
-
-## Ambito pubblico
-
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+<sub>Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati.</sub>
